@@ -1,6 +1,4 @@
-👋 Hi, I’m Ryan Mulcahey (@ryanmulcahey22), a software engineer and aspring quant, 
-with experience in data science, analysis of algorithms, and econometrics, 
-passionate about the intersection of computer science and economics and its applications to quantitative finance
+👋 Hi, I’m Ryan Mulcahey (@ryanmulcahey22), a software engineer and aspring quant, with experience in data science, analysis of algorithms, and econometrics, passionate about the intersection of computer science and economics and its applications to quantitative finance
 
 
 <!---
